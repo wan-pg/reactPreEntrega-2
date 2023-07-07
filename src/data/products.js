@@ -1,0 +1,43 @@
+export const items = [
+    {id: "0",
+    nombre:"Botella 1",
+    proceso: "soplado",
+    precio: "$100", 
+    descripción:"botella soplada en plástico polietileno de alta densidad",
+    img:"../assets/Botella-1.jpg"},
+
+    {id: "1", 
+    nombre:"Botella 2",  
+    proceso: "soplado", 
+    precio: "$150", 
+    descripción:"botella soplada en plástico polietileno de alta densidad",
+    img:"./assets/Botella-2.jpg"},
+
+    {id: "2", 
+    nombre:"Bandeja 1",  
+    proceso: "Termoformado", 
+    precio: "$200", 
+    descripción:"Bandeja Termoformada en PET",
+    img:"./assets/Bandeja 1.jpg"},
+
+    {id: "3", 
+    nombre:"Bandeja 2",  
+    proceso: "Termoformado", 
+    precio: "$250", 
+    descripción:"Bandeja Termoformada en PET",
+    img:"./assets/Bandeja 2.jpg"},
+
+    {id: "4", 
+    nombre:"Juguete 1",  
+    proceso: "Inyección", 
+    precio: "$300", 
+    descripción:"Juguete Inyectado en PP",
+    img:"./assets/Juguete 1.jpg"},
+
+    {id: "5", 
+    nombre:"Juguete 2",  
+    proceso: "Inyección", 
+    precio: "$350", 
+    descripción:"Juguete Inyectado en PP",
+    img:"./assets/Juguete 2.jpg"},
+]
