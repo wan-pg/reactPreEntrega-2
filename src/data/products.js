@@ -1,14 +1,14 @@
 export const items = [
     {id: "0",
     nombre:"Botella 1",
-    proceso: "soplado",
+    proceso: "Soplado",
     precio: "$100", 
     descripción:"botella soplada en plástico polietileno de alta densidad",
     img:"../assets/Botella-1.jpg"},
 
     {id: "1", 
     nombre:"Botella 2",  
-    proceso: "soplado", 
+    proceso: "Soplado", 
     precio: "$150", 
     descripción:"botella soplada en plástico polietileno de alta densidad",
     img:"./assets/Botella-2.jpg"},
